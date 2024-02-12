@@ -19,7 +19,10 @@
 
 #### This Flask script sets up a basic web application allowing users to upload images. The uploaded images are resized to 128x128 pixels and stored in the 'static/input' directory. Users can view the list of uploaded images on the main page.
 
-<a href="https://cursed-entertainment.itch.io/" target="_blank">
+    <br>
+<div align="center">
+<a href="https://github.com/CursedPrograms" target="_blank">
     <img src="https://github.com/CursedPrograms/cursedentertainment/raw/main/images/logos/logo-wide-grey.png"
-        alt="CursedEntertainment Logo">
+        alt="CursedEntertainment Logo" style="width:250px;">
 </a>
+</div>
